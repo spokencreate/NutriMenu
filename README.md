@@ -1,6 +1,6 @@
 # NutriMenu 🍲
 
-**NutriMenu** is a web application that provides nutritious, African-themed meal suggestions for breakfast, lunch, dinner, and snacks. It blends modern web technologies with the rich diversity of African cuisine to help users make healthy and culturally inspired food choices.
+**NutriMenu** is a Web application that provides nutritious, African-themed meal suggestions for breakfast, lunch, dinner, and snacks. It blends modern web technologies with the rich diversity of African cuisine to help users make healthy and culturally inspired food choices.
 
 ---
 
@@ -17,12 +17,11 @@
 
 ## 🛠️ Tech Stack
 
-| Frontend    | Backend    | Styling     | Language   |
-|-------------|------------|-------------|------------|
-| React (JSX) | Node.js    | TailwindCSS | TypeScript |
+| Frontend    | Backend | Styling     | Language   |
+| ----------- | ------- | ----------- | ---------- |
+| React (JSX) | Node.js | TailwindCSS | TypeScript |
 
 ---
-
 
 ## 🚀 Getting Started
 
@@ -37,3 +36,4 @@
 ```bash
 git clone https://github.com/your-username/NutriMenu.git
 cd NutriMenu
+```
